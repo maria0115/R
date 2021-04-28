@@ -1,0 +1,4 @@
+"","subject_name","temperature","flu_status","gender","blood"
+"1","John",32.2,FALSE,"MALE","O"
+"2","Dunpy",33,FALSE,"FEMALE","AB"
+"3","Steve",37.9,TRUE,"MALE","A"
